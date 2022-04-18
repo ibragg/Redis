@@ -1,7 +1,7 @@
 # Redis
 Устанавливаем redis с официального сайта следуя всем инструкциям.
 
-## Сохраняем большой json file (размер ~350мб) из [kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=dict_artists.json) при помощи скрипта на питоне:
+## Сохраняем большой json file (размер ~20мб) из [kaggle](https://www.kaggle.com/datasets/gauravduttakiit/covid-19) при помощи скрипта на питоне:
 
 ```javascript
 import json
